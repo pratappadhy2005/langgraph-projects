@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment (UV manages this inside `.venv`)
+.venv/
+
+# Environment variable files
+.env
+.env.*.local
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Pytest cache
+.pytest_cache/
+
+# Mypy / Pyright / type checker files
+.mypy_cache/
+.pyright/
+
+# Pyre type checker
+.pyre/
+
+# Static analysis tools
+ruff_cache/
+
+# VS Code and other IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
