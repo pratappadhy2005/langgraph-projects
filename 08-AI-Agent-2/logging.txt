@@ -1,0 +1,26 @@
+Your Conversation Log:
+You: Hi
+AI: Hello! How can I assist you today?
+
+You: What's the sqaure root of 4
+AI: The square root of 4 is 2.
+
+You: Hi
+AI: Hello again! How can I help you?
+
+You: My name is Pratap
+AI: Nice to meet you, Pratap! How can I assist you today?
+
+You: Who am I?
+AI: You mentioned that your name is Pratap. Beyond that, I don't have any additional information about you. If you'd like to share more, feel free to do so!
+
+You: Hi
+AI: Hello, Pratap! What would you like to talk about today?
+
+You: My name is Pratap
+AI: Nice to hear from you again, Pratap! How can I assist you today?
+
+You: Who am I?
+AI: You are Pratap, as you've mentioned before. If there's anything specific you'd like to explore or discuss about yourself, feel free to let me know!
+
+End of Conversation
